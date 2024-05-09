@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400&family=Raleway:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap");
 
 :root {
   --grid-cols: 1;
@@ -25,7 +25,7 @@ html {
 body {
   background-color: #404040;
   color: #f5f5f5;
-  font-family: "Tilda Sans" sans-serif;
+  font-family: "Literata", serif;
 }
 
 img,
@@ -50,7 +50,7 @@ svg {
   gap: 40px;
   height: 70px;
   padding-right: 35px;
-  font-family: "Tilda Sans", sans-serif;
+  font-family: "Literata", serif;
 }
 
 .navigation a {
@@ -114,7 +114,7 @@ svg {
 }
 
 .welcome-content h1 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Literata", serif;
   font-size: 3.5rem;
   color: #f0f0f0;
   text-align: center;
@@ -143,7 +143,7 @@ svg {
   padding-top: 4.375rem;
   color: #f0f0f0;
   font-size: 2.625rem;
-  font-family: "Raleway", sans-serif;
+  font-family: "Literata", serif;
   justify-content: center;
   text-align: center;
 }
@@ -202,7 +202,7 @@ svg {
   padding-top: 0.6rem;
   font-size: 1.5rem;
   text-align: center;
-  font-family: "Tilda Sans", sans-serif;
+  font-family: "Literata", serif;
 }
 
 @media (max-width: 768px) {
@@ -227,7 +227,7 @@ svg {
 
 .contact-section h2 {
   padding-top: 9.375rem;
-  font-family: "Tilda Sans", serif;
+  font-family: "Literata", serif;
   color: #f0f0f0;
   text-align: center;
   font-size: 2.625rem;
@@ -241,7 +241,7 @@ svg {
   text-align: center;
   font-size: 1.5rem;
   font-weight: 300;
-  font-family: "Tilda Sans", sans-serif;
+  font-family: "Literata", serif;
 }
 
 .contact-links {
@@ -256,7 +256,7 @@ svg {
 
 .contact-link {
   font-size: 1.5rem;
-  font-family: "Tilda Sans", sans-serif;
+  font-family: "Literata", serif;
   text-decoration: none;
   color: #f0f0f0;
   text-shadow: 2px 2px 2px #000;
